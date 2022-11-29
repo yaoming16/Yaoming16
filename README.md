@@ -15,13 +15,13 @@
 
 </div>
 
-** ## :cyclone: About me **
+## :cyclone: About me
 
 I'm getting started as a software developer. I have found a great passion for creating new things and being constantly learning to improve my skills. Right now i'm focusing on web development but i am willing to develop in other areas. 
 
 # #
 
-** ### :cyclone: Languages and Tools **
+### :cyclone: Languages and Tools
 
 <div>
 
@@ -59,6 +59,6 @@ I'm getting started as a software developer. I have found a great passion for cr
 
 #
 
-** ### :cyclone: Stats **
+### :cyclone: Stats
 
 ![Yaoming16 GitHub stats](https://github-readme-stats.vercel.app/api?username=yaoming16&show_icons=true&theme=tokyonight)
