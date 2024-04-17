@@ -61,4 +61,4 @@ I'm getting started as a software developer. I have found a great passion for cr
 
 ### :cyclone: Stats 
 
-![Yaoming16 GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yaoming16&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaoming16&show_icons=true&theme=radical)
