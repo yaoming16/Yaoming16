@@ -33,7 +33,7 @@ I'm getting started as a software developer. I have found a great passion for cr
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" align="left" alt="Bootstrap" width="30px" style="padding-right: 10px; margin-top: 1rem" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-plain.svg" align="left" alt="Tailwind" width="30px" style="padding-right: 10px; margin-top: 1rem" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" align="left" alt="Tailwind" width="30px" style="padding-right: 10px; margin-top: 1rem" />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" align="left" alt="React" width="30px" style="padding-right: 10px; margin-top: 1rem" />
 
@@ -44,7 +44,7 @@ I'm getting started as a software developer. I have found a great passion for cr
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" align="left" alt="C#" width="30px" style="padding-right: 10px; margin-top: 1rem"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linuxmint/linuxmint-original.svg"  align="left" alt="C#" width="30px" style="padding-right: 10px; margin-top: 1rem"/>
-
+          
 </div>
 
 <br/>
@@ -53,7 +53,7 @@ I'm getting started as a software developer. I have found a great passion for cr
 <br/>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaoming16&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaoming16&layout=compact&theme=radical&langs_count=10)
 
 <br/>
 
@@ -61,4 +61,4 @@ I'm getting started as a software developer. I have found a great passion for cr
 
 ### :cyclone: Stats 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaoming16&show_icons=true&theme=radical&rank_icon=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaoming16&show_icons=true&theme=radical&rank_icon=github)
