@@ -53,7 +53,7 @@ I'm getting started as a software developer. I have found a great passion for cr
 <br/>
 
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yaoming16&layout=compact&theme=tokyonight)](https://github.com/yaoming16/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaoming16&layout=compact)
 
 <br/>
 
