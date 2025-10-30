@@ -25,25 +25,25 @@ I'm getting started as a software developer. I have found a great passion for cr
 
 <div>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" align="left" alt="javaScript" width="30px" style="padding-right: 10px; margin-top: 1rem" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" align="left" alt="javaScript" width="30px" style="padding-right: 10px; margin-top: 1rem" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" align="left" alt="CSS" width="30px" style="padding-right: 10px; margin-top: 1rem" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" align="left" alt="CSS" width="30px" style="padding-right: 10px; margin-top: 1rem" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" align="left" alt="HTML" width="30px" style="padding-right: 10px; margin-top: 1rem" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" align="left" alt="HTML" width="30px" style="padding-right: 10px; margin-top: 1rem" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" align="left" alt="Bootstrap" width="30px" style="padding-right: 10px; margin-top: 1rem" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" align="left" alt="Bootstrap" width="30px" style="padding-right: 10px; margin-top: 1rem" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" align="left" alt="Tailwind" width="30px" style="padding-right: 10px; margin-top: 1rem" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-plain.svg" align="left" alt="Tailwind" width="30px" style="padding-right: 10px; margin-top: 1rem" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" align="left" alt="React" width="30px" style="padding-right: 10px; margin-top: 1rem" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" align="left" alt="React" width="30px" style="padding-right: 10px; margin-top: 1rem" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg" align="left" alt="Jquery" width="30px" style="padding-right: 10px; margin-top: 1rem" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain.svg" align="left" alt="Node.js" width="30px" style="padding-right: 10px; margin-top: 1rem" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" align="left" alt="Node.js" width="30px" style="padding-right: 10px; margin-top: 1rem" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" align="left" alt="Express" width="30px" style="padding-right: 10px; margin-top: 1rem" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" align="left" alt="Express" width="30px" style="padding-right: 10px; margin-top: 1rem" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" align="left" alt="C#" width="30px" style="padding-right: 10px; margin-top: 1rem"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" align="left" alt="Python" width="30px" style="padding-right: 10px; margin-top: 1rem" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linuxmint/linuxmint-original.svg"  align="left" alt="C#" width="30px" style="padding-right: 10px; margin-top: 1rem"/>
 
 </div>
 
@@ -53,7 +53,7 @@ I'm getting started as a software developer. I have found a great passion for cr
 <br/>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaoming16&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaoming16&layout=compact&theme=radical)
 
 <br/>
 
@@ -61,4 +61,4 @@ I'm getting started as a software developer. I have found a great passion for cr
 
 ### :cyclone: Stats 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaoming16&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaoming16&show_icons=true&theme=radical&rank_icon=true)
